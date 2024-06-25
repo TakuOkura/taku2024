@@ -1,2 +1,2 @@
-alert(`HEllo,Taku!`);
+alert('HEllo,Taku!');
 
